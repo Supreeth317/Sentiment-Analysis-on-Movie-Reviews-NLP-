@@ -13,3 +13,10 @@ A text classification project that predicts whether a movie review is positive o
 
 ## 📁 How to run:
 1. Install dependencies:
+2. Run the `sentiment_analysis.ipynb` notebook or `sentiment_analysis.py` script.
+
+3. View accuracy, confusion matrix, and predictions.
+
+## 📌 Dataset:
+Used IMDb movie reviews dataset with labeled positive and negative reviews.
+
